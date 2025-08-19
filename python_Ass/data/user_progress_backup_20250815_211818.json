@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": 1,
+        "module_id": 1,
+        "quiz_score": 85,
+        "id": 1,
+        "completion_status": true,
+        "last_accessed": "2025-08-15 14:13:28.547178"
+    },
+    {
+        "user_id": 2,
+        "module_id": 2,
+        "quiz_score": 85,
+        "id": 2,
+        "completion_status": true,
+        "last_accessed": "2025-08-15 20:58:24.698445"
+    }
+]
